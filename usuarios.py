@@ -31,7 +31,7 @@ admin = {
     "nombres": "Fabián Alexander",
     "apellidos": "Palma Dueñas",
     "cedula": "2300284342",
-    "correo_electronico": "fapalma1@espe.edu.ec",
+    "correo_electronico": "fabian@eeeeee.edu.com",
     "rol": "admin",
     "estado": "admin"
 }
